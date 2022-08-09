@@ -10,3 +10,4 @@ fix
 build
 docs
 style
+refactor
