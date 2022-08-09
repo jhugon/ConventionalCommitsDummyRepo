@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
+## [v0.1.2](https://github.com/jhugon/ConventionalCommitsDummyRepo/releases/tag/v0.1.2) - 2022-08-09
+
+- [`f2c1847`](https://github.com/jhugon/ConventionalCommitsDummyRepo/commit/f2c184741f35c1a47bd1d5263ea3567e110ee1fe) fix(test): bug fix
+- [`f94bc82`](https://github.com/jhugon/ConventionalCommitsDummyRepo/commit/f94bc82f8be4cb43980545680c2674961a407a38) fix(test): bug fix
+
 ## [v0.1.1](https://github.com/jhugon/ConventionalCommitsDummyRepo/releases/tag/v0.1.1) - 2022-08-09
 
 - [`2c52782`](https://github.com/jhugon/ConventionalCommitsDummyRepo/commit/2c527825d8d9371693de89235a874e09ff6ae7f7) fix: test a bug fix
