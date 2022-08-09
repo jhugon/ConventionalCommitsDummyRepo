@@ -6,6 +6,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
+## [v2.0.0](https://github.com/jhugon/ConventionalCommitsDummyRepo/releases/tag/v2.0.0) - 2022-08-09
+
+- [`d52a293`](https://github.com/jhugon/ConventionalCommitsDummyRepo/commit/d52a2932af9636aecd69fc2d3964342f732f5c6f) feat: a feature
+- [`b247718`](https://github.com/jhugon/ConventionalCommitsDummyRepo/commit/b247718b76260bbc2e45692c91cd69d662b145ac) test: add a test
+- [`92b3a39`](https://github.com/jhugon/ConventionalCommitsDummyRepo/commit/92b3a39c4944d7d752f36672e2f9fdc67339b6de) perf: improve performance
+- [`676aff6`](https://github.com/jhugon/ConventionalCommitsDummyRepo/commit/676aff65c67c03c30f00d62cf5f6316b8acaf7b8) refactor: refactor something
+- [`27c05c6`](https://github.com/jhugon/ConventionalCommitsDummyRepo/commit/27c05c6da269165974469c189cfda3aa2d6f22dc) style: a style change
+- [`0acf4df`](https://github.com/jhugon/ConventionalCommitsDummyRepo/commit/0acf4df17b838a328bacb4c3a25dd2face9f5963) docs: a doc change
+- [`48b9575`](https://github.com/jhugon/ConventionalCommitsDummyRepo/commit/48b957510684d4aaa02af4a65fc0d44da0b8172c) build: a build change
+
 ## [v1.1.0](https://github.com/jhugon/ConventionalCommitsDummyRepo/releases/tag/v1.1.0) - 2022-08-09
 
 - [`3d6323c`](https://github.com/jhugon/ConventionalCommitsDummyRepo/commit/3d6323c24de5ad160c673b0f790f7cbf58dbcb3d) fix: a bug fix
