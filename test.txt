@@ -6,3 +6,4 @@ chore
 chore
 breaking change
 feature
+fix
