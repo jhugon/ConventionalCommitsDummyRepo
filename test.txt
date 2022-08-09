@@ -11,3 +11,4 @@ build
 docs
 style
 refactor
+perf
