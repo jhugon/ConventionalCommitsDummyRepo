@@ -2,3 +2,4 @@ A feature change to trigger a version bump
 just a bug fix
 just a bug fix
 just a bug fix
+chore
