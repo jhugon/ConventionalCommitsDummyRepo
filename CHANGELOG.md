@@ -15,6 +15,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - [`27c05c6`](https://github.com/jhugon/ConventionalCommitsDummyRepo/commit/27c05c6da269165974469c189cfda3aa2d6f22dc) style: a style change
 - [`0acf4df`](https://github.com/jhugon/ConventionalCommitsDummyRepo/commit/0acf4df17b838a328bacb4c3a25dd2face9f5963) docs: a doc change
 - [`48b9575`](https://github.com/jhugon/ConventionalCommitsDummyRepo/commit/48b957510684d4aaa02af4a65fc0d44da0b8172c) build: a build change
+- Some stuff in the changelog
 
 ## [v1.1.0](https://github.com/jhugon/ConventionalCommitsDummyRepo/releases/tag/v1.1.0) - 2022-08-09
 
