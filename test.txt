@@ -8,3 +8,4 @@ breaking change
 feature
 fix
 build
+docs
