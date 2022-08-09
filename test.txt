@@ -7,3 +7,4 @@ chore
 breaking change
 feature
 fix
+build
