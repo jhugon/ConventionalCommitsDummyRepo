@@ -9,3 +9,4 @@ feature
 fix
 build
 docs
+style
